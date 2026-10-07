@@ -6,12 +6,6 @@
     "path": "games/wordle/index.html"
   },
   {
-    "id": "connections",
-    "name": "Connections",
-    "description": "Create four groups of four!",
-    "path": "games/connections/index.html"
-  },
-  {
     "id": "flagle",
     "name": "Flagle",
     "description": "Guess the country by its flag.",
